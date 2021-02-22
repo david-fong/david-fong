@@ -1,4 +1,6 @@
-### Hello there!
+### Hello!
+
+I like writing TypeScript, developing single-page-web-applications without using front-end-frameworks, and optimizing build and deployment processes. I've got a lot to learn, but I'm making my way.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=david-fong&theme=solarized-dark&show_icons=true&count_private=true)
 
