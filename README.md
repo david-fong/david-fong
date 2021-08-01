@@ -1,8 +1,8 @@
 ### Hello!
 
-I enjoy developing SPA's, optimizing builds, and ruthlessly trying to improve on my past work. Many of my personal projects involve constraint problems with lattices of glyphs, or making creative usages of technologies.
+I am a web developer with an interest in security, performance, and interactivity. Many of my personal projects involve constraint problems with lattices of glyphs, or making creative, convoluted usages of technologies. I generally value quality over agility and find it hard to live with technical debt. Recently, I've been interested in programming language design, and possible ways to unify and improve developer tooling.
 
-Recently, I've been interested in programming language design, and possible ways to unify and improve developer tooling.
+[I have some writings over on my gists page](https://gist.github.com/david-fong).
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=david-fong&theme=solarized-dark&show_icons=true&count_private=true) -->
 
