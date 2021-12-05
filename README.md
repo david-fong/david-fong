@@ -1,6 +1,6 @@
 ### Hello!
 
-I am a web developer with an interest in developing applications for real-time collaboration. I generally value quality over agility and find it hard to live with technical debt. I always keep on the lookout for better ways to do things, and ways to lower barriers to entry into programming. I sometimes make music. Recently, I've been interested in programming language design, and possible ways to unify and improve developer tooling.
+I like to understand how things work and compare different approaches to solving problems. I prefer quality over agility and find it hard to live with technical debt. I enjoy looking for better ways to do things, and ways to lower barriers to entry into programming. I sometimes make music. Recently, I've been interested in programming language design, and possible ways to unify and improve developer tooling.
 
 [I have some writings over on my gists page](https://gist.github.com/david-fong).
 
