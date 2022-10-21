@@ -1,1 +1,1 @@
-<a href="https://stackoverflow.com/users/11107541/david-fong"><img src="https://stackexchange.com/users/flair/15396644.png?theme=dark" width="208" height="58" alt="David Fong on Stack Overflow" title="my stackoverflow profile :)"></a>
+<!--<a href="https://stackoverflow.com/users/11107541/david-fong"><img src="https://stackexchange.com/users/flair/15396644.png?theme=dark" width="208" height="58" alt="David Fong on Stack Overflow" title="my stackoverflow profile :)"></a>-->
